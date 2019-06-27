@@ -1,26 +1,25 @@
 # Financial-Modeling-4th-edition  
 
-サイモンベニンガ著『ファイナンシャルモデリング』のPython実装版です。  
-書籍内でExcelを使って解説されている理論やシミュレーションをPythonで作り直しています。
+Python implementation of a popular textbook "Financial Modeling 4th Edition" written by Simon Benninga.
 
-# Contents（順次更新）
-### Ⅱ ポートフォリオ・モデリング  
-  #### 8.ポートフォリオ・モデル導入  
-  #### 9.効率的ポートフォリオの導出
-  - 9.4 効率的フロンティアの計算：例題
-  - 9.7 市場ポートフォリオを見つける：資本市場線
-  - 9.8 SMLの検証-命題３から命題５を実装する 
+# Contents
+### Ⅱ PORTFOLIO MODELS  
+  #### 8. Portfolio Models: Introduction  
+  #### 9. Calculating Efficient Portfolios
+  - 9.4 Calculating the Efficient Frontier: An Example
+  - 9.7 Finding the Market Portfolio: The Capital Market Line(CMP)
+  - 9.8 Testing SML - Implementing Propositions 3-5
 
-### Ⅲ　オプションの評価
-### Ⅳ　債権の評価
-### Ⅴ モンテカルロ法  
-  #### 25.モンテカルロ法の導入
-  - 25.4 投資と退職の問題
-
+### Ⅲ VALUATION OF OPTIONS
+### Ⅳ VALUING BONDS
+### Ⅴ MONTE CARLO METHODS  
+  #### 25. An Introduction to Monte Carlo Methods
+  - 25.4 Another Monte Carlo Problem: Investment and Retirement
 
 
-  #### 27.投資のためのモンテカルロ・シミュレーション
-  - 27.2 単独株式の価格とリターンのシミュレーション
-  - 27.3 3つの株式のポートフォリオ
-  - 27.4 無リスク資産を加える
-  - 27.7 ベータとリターン
+
+  #### 27. Monte Carlo Simulations for Investments
+  - 27.2 Simulating Price and Returns for a Single Stock
+  - 27.3 Portfolio of Two Stocks
+  - 27.4 Adding a Risk-Free Asset
+  - 27.7 Beta and Return
