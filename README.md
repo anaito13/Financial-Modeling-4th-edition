@@ -2,13 +2,15 @@
 
 Python implementation of a popular textbook "Financial Modeling 4th Edition" written by Simon Benninga.
 
-# Contents
+# Contents (Being updated)
 ### Ⅱ PORTFOLIO MODELS  
   #### 8. Portfolio Models: Introduction  
   #### 9. Calculating Efficient Portfolios
   - 9.4 Calculating the Efficient Frontier: An Example
   - 9.7 Finding the Market Portfolio: The Capital Market Line(CMP)
   - 9.8 Testing SML - Implementing Propositions 3-5
+  #### 11. Estimating Betas and the Security Market Line
+  #### 12. Efficient Portfolios Without Short Sales
 
 ### Ⅲ VALUATION OF OPTIONS
 ### Ⅳ VALUING BONDS
